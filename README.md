@@ -16,4 +16,4 @@
 
 ## Best practeses:
 
-- we are using Husky to to pre-commit checks. In our case it is to check is code formated properly
+- we are using Husky for pre-commit checks. In our case it is to check is code formated properly
