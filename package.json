@@ -1,0 +1,18 @@
+{
+  "name": "eton",
+  "version": "1.0.0",
+  "description": "Eton assigment",
+  "main": "index.js",
+  "scripts": {
+    "prettier:write": "prettier --write .",
+    "prettier:check": "prettier --check ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5",
+    "prettier": "^3.5.2"
+  }
+}
