@@ -13,6 +13,8 @@
 
 - 'npm run prettier:write' - to format code
 - 'npm run prettier:check' - to check if code is formated properly
+- 'npx playwright test' - run tests headless
+- 'npx playwright test --headed' - run tests headed
 
 ## Best practeses:
 
