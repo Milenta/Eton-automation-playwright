@@ -11,6 +11,5 @@
 
 ## Running custom commands:
 
-'npm run prettier:write' - to format code
-'npm run prettier:check' - to check if code is formated properly
-
+- 'npm run prettier:write' - to format code
+- 'npm run prettier:check' - to check if code is formated properly
