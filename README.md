@@ -1,4 +1,4 @@
-# Playwright API automation tests
+# Playwright Eton automation tests
 
 ## Local development, how to setup and use:
 
